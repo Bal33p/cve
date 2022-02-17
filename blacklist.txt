@@ -2,3 +2,6 @@ p1ay8y3ar/cve_monitor
 mirac7/codegraph
 AlphabugX/CVE-2022-RCE
 pen4uin/vulnerability-lab
+r00t4dm/r00t4dm
+tanjiti/sec_profile
+dlehgus1023/dlehgus1023
